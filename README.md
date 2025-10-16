@@ -133,8 +133,7 @@ Inspired by classic Minesweeper and the episode "Honor of Kings: The Way of All 
 
 - [Dr. Kheradpishe](https://github.com/SRKH) (Instructor)
 - [Ehsan Habibagaahi](https://github.com/Ehsan-Habibagahi) (Mentor)
-- And special thanks to **Parsa**
-  -[Parsa](https://github.com/Parsa-Tajik)
+- And special thanks to [Parsa](https://github.com/Parsa-Tajik)
 
 ## 🧑‍💻 Creator
 
